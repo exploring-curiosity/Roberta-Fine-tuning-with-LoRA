@@ -1,0 +1,29 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+
+\bibitem[{Hu et~al.(2022)Hu, Shen, Wallis, Allen-Zhu, Li, Wang, Wang, and Chen}]{hu2021lora}
+Hu, E.~J.; Shen, Y.; Wallis, P.; Allen-Zhu, Z.; Li, Y.; Wang, S.; Wang, L.; and Chen, W. 2022.
+\newblock {LoRA}: Low-Rank Adaptation of Large Language Models.
+\newblock In \emph{International Conference on Learning Representations (ICLR)}.
+
+\bibitem[{Liu et~al.(2019)Liu, Ott, Goyal, Du, Joshi, Chen, Levy, Lewis, Zettlemoyer, and Stoyanov}]{liu2019roberta}
+Liu, Y.; Ott, M.; Goyal, N.; Du, J.; Joshi, M.; Chen, D.; Levy, O.; Lewis, M.; Zettlemoyer, L.; and Stoyanov, V. 2019.
+\newblock {RoBERTa}: A Robustly Optimized {BERT} Pretraining Approach.
+\newblock \emph{arXiv preprint arXiv:1907.11692}.
+
+\bibitem[{Loshchilov and Hutter(2017)}]{loshchilov2017decoupled}
+Loshchilov, I.; and Hutter, F. 2017.
+\newblock Decoupled Weight Decay Regularization.
+\newblock \emph{arXiv preprint arXiv:1711.05101}.
+
+\bibitem[{{PEFT contributors}(2022)}]{peft}
+{PEFT contributors}. 2022.
+\newblock {PEFT}: Parameter-Efficient Fine-Tuning of Foundation Models.
+\newblock \url{https://github.com/huggingface/peft}.
+
+\bibitem[{Wolf et~al.(2020)Wolf, Debut, Sanh, Chaumond, Delangue, Moi, Cistac, Rault, Louf, Funtowicz, Davison, Shleifer, von Platen, Ma, Jernite, Plu, Xu, Le~Scao, Gugger, Drame, Lhoest, and Rush}]{wolf-etal-2020-transformers}
+Wolf, T.; Debut, L.; Sanh, V.; Chaumond, J.; Delangue, C.; Moi, A.; Cistac, P.; Rault, T.; Louf, R.; Funtowicz, M.; Davison, J.; Shleifer, S.; von Platen, P.; Ma, C.; Jernite, Y.; Plu, J.; Xu, C.; Le~Scao, T.; Gugger, S.; Drame, M.; Lhoest, Q.; and Rush, A.~M. 2020.
+\newblock Transformers: State-of-the-Art Natural Language Processing.
+\newblock In \emph{Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: System Demonstrations}, 38--45. Online: Association for Computational Linguistics.
+
+\end{thebibliography}
